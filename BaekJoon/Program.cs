@@ -1,4 +1,4 @@
-﻿using System;
+﻿using BaekJoon.Problems;
 
 namespace BaekJoon
 {
@@ -6,7 +6,14 @@ namespace BaekJoon
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // $PROBLEMCLASS$.Instance.Solve();
+            P10817.Instance.Solve();
         }
     }
+
+    internal interface ISolve
+    {
+        void Solve();
+    }
 }
+
