@@ -7,7 +7,8 @@ namespace BaekJoon
         static void Main(string[] args)
         {
             // $PROBLEMCLASS$.Instance.Solve();
-            P10817.Instance.Solve();
+            // P10817.Instance.Solve();
+            P1074.Instance.Solve();
         }
     }
 
