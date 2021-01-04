@@ -6,9 +6,7 @@ namespace BaekJoon
     {
         static void Main(string[] args)
         {
-            // $PROBLEMCLASS$.Instance.Solve();
-            // P10817.Instance.Solve();
-            P1074.Instance.Solve();
+            P3048.Instance.Solve();
         }
     }
 
@@ -17,4 +15,3 @@ namespace BaekJoon
         void Solve();
     }
 }
-
