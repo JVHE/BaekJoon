@@ -6,7 +6,7 @@ namespace BaekJoon
     {
         static void Main(string[] args)
         {
-            P3048.Instance.Solve();
+            P1052.Instance.Solve();
         }
     }
 
